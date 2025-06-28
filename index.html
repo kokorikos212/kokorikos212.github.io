@@ -3,54 +3,61 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Panos Mavroudisss | Portfolio</title>
+  <title>Panos Mavroudiss | Portfolio</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      background-image: url('images/bg.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  </style>
 </head>
-<body class="relative bg-cover bg-center font-sans" style="background-image: url('images/bg.jpg');">
+<body class="relative font-sans">
   <div class="absolute inset-0 bg-white bg-opacity-80"></div>
   <div class="relative z-10">
 
-  <header class="bg-white shadow p-4">
-    <div class="max-w-3xl mx-auto">
+    <header class="bg-white shadow p-4 max-w-3xl mx-auto">
       <h1 class="text-3xl font-bold">Panos Mavroudiss</h1>
       <p class="text-sm text-gray-600">Aspiring AI Specialist</p>
-    </div>
-  </header>
+    </header>
 
-  <main class="p-4 max-w-3xl mx-auto space-y-8">
-    <!-- Projects Section -->
-    <section>
-      <h2 class="text-xl font-semibold mb-2">Projects</h2>
-      <ul class="space-y-3">
-        <li>
-          <a href="projects/project1.html" class="text-blue-600 font-medium underline">Project 1 Title</a>
-          <p class="text-sm text-gray-600">Brief description of the project.</p>
-        </li>
-      </ul>
-    </section>
+    <main class="p-4 max-w-3xl mx-auto space-y-8">
+      <!-- Projects Section -->
+      <section>
+        <h2 class="text-xl font-semibold mb-2">Projects</h2>
+        <ul class="space-y-3">
+          <li>
+            <a href="projects/project1.html" class="text-blue-600 font-medium underline">Project 1 Title</a>
+            <p class="text-sm text-gray-600">Brief description of the project.</p>
+          </li>
+        </ul>
+      </section>
 
-    <!-- Certificates Section -->
-    <section>
-      <h2 class="text-xl font-semibold mb-2">Certificates</h2>
-      <ul class="space-y-2">
-        <li>
-          <a href="certificates/cert1.pdf" class="text-blue-600 underline" target="_blank">Certificate Title</a>
-        </li>
-      </ul>
-    </section>
+      <!-- Certificates Section -->
+      <section>
+        <h2 class="text-xl font-semibold mb-2">Certificates</h2>
+        <ul class="space-y-2">
+          <li>
+            <a href="certificates/cert1.pdf" class="text-blue-600 underline" target="_blank">Certificate Title</a>
+          </li>
+        </ul>
+      </section>
 
-    <!-- Resume Section -->
-    <section>
-      <h2 class="text-xl font-semibold mb-2">Résumé</h2>
-      <a href="resume.html" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
-        View My Résumé
-      </a>
-    </section>
-  </main>
+      <!-- Resume Section -->
+      <section>
+        <h2 class="text-xl font-semibold mb-2">Résumé</h2>
+        <a href="resume.html" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
+          View My Résumé
+        </a>
+      </section>
+    </main>
 
-  <footer class="p-4 text-center text-sm text-gray-500">
-    © 2025 Panos Mavroudiss. Built with HTML & Tailwind CSS.
-  </footer>
+    <footer class="p-4 text-center text-sm text-gray-500 max-w-3xl mx-auto">
+      © 2025 Panos Mavroudiss. Built with HTML & Tailwind CSS.
+    </footer>
+
   </div>
 </body>
 </html>
