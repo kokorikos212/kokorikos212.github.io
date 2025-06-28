@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML and Tailwind CSS, and hosted for free using GitHub Pages.
 
 ## 🌐 Website
-[https://your-username.github.io](https://your-username.github.io)
+[https://kokorikos212.github.io](https://kokorikos212.github.io)
 
 ## 📂 Features
 - Projects section to showcase my work in AI and programming
@@ -18,7 +18,7 @@ This is my personal portfolio website built using HTML and Tailwind CSS, and hos
 ## 🚀 Getting Started
 To run locally:
 ```bash
-git clone https://github.com/your-username/your-username.github.io.git
-cd your-username.github.io
+git clone https://github.com/kokorikos212/kokorikos212.github.io.git
+cd kokorikos212.github.io
 # Open index.html in your browser
 
