@@ -3,26 +3,30 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Your Name | Portfolio</title>
+  <title>Panos Mavroudiss | Portfolio</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-50 text-gray-800 font-sans">
   <header class="bg-white shadow p-4">
-    <h1 class="text-2xl font-bold">Your Name</h1>
-    <p class="text-sm text-gray-600">Aspiring AI Specialist</p>
+    <div class="max-w-3xl mx-auto">
+      <h1 class="text-3xl font-bold">Panos Mavroudiss</h1>
+      <p class="text-sm text-gray-600">Aspiring AI Specialist</p>
+    </div>
   </header>
 
-  <main class="p-4 max-w-3xl mx-auto">
-    <section class="mb-8">
+  <main class="p-4 max-w-3xl mx-auto space-y-8">
+    <!-- Projects Section -->
+    <section>
       <h2 class="text-xl font-semibold mb-2">Projects</h2>
-      <ul class="space-y-2">
+      <ul class="space-y-3">
         <li>
-          <a href="projects/project1.html" class="text-blue-600 underline">Project 1 Title</a>
+          <a href="projects/project1.html" class="text-blue-600 font-medium underline">Project 1 Title</a>
           <p class="text-sm text-gray-600">Brief description of the project.</p>
         </li>
       </ul>
     </section>
 
+    <!-- Certificates Section -->
     <section>
       <h2 class="text-xl font-semibold mb-2">Certificates</h2>
       <ul class="space-y-2">
@@ -31,10 +35,18 @@
         </li>
       </ul>
     </section>
+
+    <!-- Resume Section -->
+    <section>
+      <h2 class="text-xl font-semibold mb-2">Résumé</h2>
+      <a href="resume.html" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
+        View My Résumé
+      </a>
+    </section>
   </main>
 
   <footer class="p-4 text-center text-sm text-gray-500">
-    © 2025 Your Name. Built with HTML & Tailwind CSS.
+    © 2025 Panos Mavroudiss. Built with HTML & Tailwind CSS.
   </footer>
 </body>
 </html>
