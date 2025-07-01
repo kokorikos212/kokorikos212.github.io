@@ -81,6 +81,33 @@
       container.appendChild(card);
     });
   </script>
+  <script>
+  fetch('certificates/certificates.json')
+    .then(res => res.json())
+    .then(certificates => {
+      const container = document.getElementById('certificates-grid');
+
+      certificates.forEach(cert => {
+        const card = document.createElement('div');
+        card.className = 'bg-gray-100 p-3 rounded shadow hover:shadow-lg transition';
+
+        card.innerHTML = `
+          <a href="${cert.link}" target="_blank">
+            <img src="${cert.image}" alt="${cert.title}" class="w-full h-48 object-cover rounded mb-2">
+            <h3 class="text-lg font-bold">${cert.title}</h3>
+            <p class="text-sm text-gray-600">${cert.issuer}</p>
+            <p class="text-xs text-gray-500">${cert.date}</p>
+          </a>
+        `;
+
+        container.appendChild(card);
+      });
+    })
+    .catch(err => {
+      console.error("Failed to load certificates:", err);
+    });
+</script>
+
 </body>
 </html>
 

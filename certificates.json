@@ -1,45 +1,44 @@
 [
-      {
-        title: "Erasmus+",
-        issuer: "Ingenioum Programm",
-        date: "2024-02-15",
-        image: "certificates/2025-06-09_ingenium-junior-summer-school-2025.png",
-        link: "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning"
-      },
-      {
-        title: "Data Cleaning",
-        issuer: "kaggle",
-        date: "2023-11-20",
-        image: "CertificateOfCompletion_What Is Generative AI.png",
-        link: "https://www.kaggle.com/learn/certification/nospaearth/data-cleaning"
-      },
-      {
-        title: "Intro to Machine Learning",
-        issuer: "kaggle",
-        date: "2024-02-15",
-        image: "Nospa_earth - Intro to Machine Learning.png",
-        link: "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning"
-      },
-            {
-        title: "Indermediate Machine Learning",
-        issuer: "IBM",
-        date: "2023-11-20",
-        image: "CertificateOfCompletion_What Is Generative AI.png",
-        link: "https://www.kaggle.com/learn/certification/nospaearth/intermediate-machine-learning"
-      },
-      {
-        title: "Pandas",
-        issuer: "kaggle",
-        date: "2024-01-30",
-        image: "certificates/CertificateOfCompletion_What Is Generative AI.png",
-        link: "https://www.kaggle.com/learn/certification/nospaearth/pandas"
-      },
-      {
-        title: "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning",
-        issuer: "Ingenioum",
-        date: "2024-02-15",
-        image: "certificates/2025-06-09_ingenium-junior-summer-school-2025.png",
-        link: "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning"
-      }
+  {
+    "title": "Erasmus+",
+    "issuer": "Ingenioum Programm",
+    "date": "2024-02-15",
+    "image": "certificates/2025-06-09_ingenium-junior-summer-school-2025.png",
+    "link": "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning"
+  },
+  {
+    "title": "Data Cleaning",
+    "issuer": "kaggle",
+    "date": "2023-11-20",
+    "image": "CertificateOfCompletion_What Is Generative AI.png",
+    "link": "https://www.kaggle.com/learn/certification/nospaearth/data-cleaning"
+  },
+  {
+    "title": "Intro to Machine Learning",
+    "issuer": "kaggle",
+    "date": "2024-02-15",
+    "image": "Nospa_earth - Intro to Machine Learning.png",
+    "link": "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning"
+  },
+  {
+    "title": "Indermediate Machine Learning",
+    "issuer": "IBM",
+    "date": "2023-11-20",
+    "image": "CertificateOfCompletion_What Is Generative AI.png",
+    "link": "https://www.kaggle.com/learn/certification/nospaearth/intermediate-machine-learning"
+  },
+  {
+    "title": "Pandas",
+    "issuer": "kaggle",
+    "date": "2024-01-30",
+    "image": "certificates/CertificateOfCompletion_What Is Generative AI.png",
+    "link": "https://www.kaggle.com/learn/certification/nospaearth/pandas"
+  },
+  {
+    "title": "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning",
+    "issuer": "Ingenioum",
+    "date": "2024-02-15",
+    "image": "certificates/2025-06-09_ingenium-junior-summer-school-2025.png",
+    "link": "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning"
+  }
 ]
-
