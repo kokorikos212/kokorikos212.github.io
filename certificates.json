@@ -3,42 +3,50 @@
     "title": "Erasmus+",
     "issuer": "Ingenioum Programm",
     "date": "2024-02-15",
-    "image": "certificates/2025-06-09_ingenium-junior-summer-school-2025.png",
-    "link": "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning"
+    "image": "certificates/Ingenioum.png",
+    "link": "https://openbadgefactory.com/v1/assertion/694d8c678c2c5bb28c411f744066bd29d016255a"
   },
   {
     "title": "Data Cleaning",
     "issuer": "kaggle",
     "date": "2023-11-20",
-    "image": "CertificateOfCompletion_What Is Generative AI.png",
+    "image": "certificates/Data Cleaning.png",
     "link": "https://www.kaggle.com/learn/certification/nospaearth/data-cleaning"
   },
   {
     "title": "Intro to Machine Learning",
     "issuer": "kaggle",
     "date": "2024-02-15",
-    "image": "Nospa_earth - Intro to Machine Learning.png",
+    "image": "certificates/Intro to Machine Learning.png",
     "link": "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning"
   },
   {
     "title": "Indermediate Machine Learning",
     "issuer": "IBM",
     "date": "2023-11-20",
-    "image": "CertificateOfCompletion_What Is Generative AI.png",
+    "image": "certificates/Intermediate Machine Learning.png",
     "link": "https://www.kaggle.com/learn/certification/nospaearth/intermediate-machine-learning"
   },
   {
-    "title": "Pandas",
-    "issuer": "kaggle",
+    "title": "Generative AI",
+    "issuer": "LinkedIn",
     "date": "2024-01-30",
-    "image": "certificates/CertificateOfCompletion_What Is Generative AI.png",
-    "link": "https://www.kaggle.com/learn/certification/nospaearth/pandas"
+    "image": "certificates/GenAI.png",
+    "link": "https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity"
   },
   {
-    "title": "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning",
-    "issuer": "Ingenioum",
-    "date": "2024-02-15",
-    "image": "certificates/2025-06-09_ingenium-junior-summer-school-2025.png",
-    "link": "https://www.kaggle.com/learn/certification/nospaearth/intro-to-machine-learning"
+    "title": "HIAS Summer School in AI",
+    "issuer": "Democritos",
+    "date": "2024-01-30",
+    "image": "certificates/Archimedes.png",
+    "link": "https://hellenic-ias.org/aicourse2024/"
+  },
+  {
+    "title": "Marine Data 4 Ocean Health",
+    "issuer": "Copernicus Marine Service",
+    "date": "2024-01-29",
+    "image": "certificates/MarineData.png",
+    "link": "https://events.marine.copernicus.eu/marine-data-4-ocean-health"
   }
+  
 ]
